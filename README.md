@@ -1,4 +1,4 @@
-# Employee Management API — JWT Authentication + RBAC
+
 
 FastAPI + SQLAlchemy + SQLite. Passwords are hashed with bcrypt, access tokens are JWTs,
 and authorization is enforced through reusable FastAPI dependencies.
